@@ -9,17 +9,17 @@
 site_name: 银川一中 Wiki
 site_description: 银川一中校园维基
 site_author: 银川一中er
-site_url: https://smartThise.github.io/ycyz-wiki/
+site_url: https://ycyz-wiki.github.io/ycyz-wiki/
 
 # ----------------------------------------------------------------------------
 # 仓库信息 —— 右上角"铅笔"图标的来源
 # repo_url     : 仓库主页
 # repo_name    : 显示在右上角的名称
 # edit_uri     : 编辑入口前缀;拼接成 "<repo_url>/<edit_uri>/<文件路径>"
-#                即 https://github.com/smartThise/ycyz-wiki/edit/main/docs/<文件>
+#                即 https://github.com/YCYZ-Wiki/ycyz-wiki/edit/main/docs/<文件>
 # ----------------------------------------------------------------------------
 repo_name: GitHub
-repo_url: https://github.com/smartThise/ycyz-wiki
+repo_url: https://github.com/YCYZ-Wiki/ycyz-wiki
 edit_uri: edit/main/docs/
 
 # ----------------------------------------------------------------------------

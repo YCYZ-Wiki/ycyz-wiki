@@ -80,4 +80,4 @@
 
 ---
 
-有疑问?欢迎在 [GitHub Issues](https://github.com/smartThise/ycyz-wiki/issues) 留言,或直接提 Pull Request。期待你的加入!🦅
+有疑问?欢迎在 [GitHub Issues](https://github.com/YCYZ-Wiki/ycyz-wiki/issues) 留言,或直接提 Pull Request。期待你的加入!🦅

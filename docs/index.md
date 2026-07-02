@@ -32,7 +32,7 @@ hide:
 
     本站完全开源,任何校友都可以提交修改。不会写代码?往下看。
 
-    [:octicons-arrow-right-24: 查看仓库](https://github.com/smartThise/ycyz-wiki)
+    [:octicons-arrow-right-24: 查看仓库](https://github.com/YCYZ-Wiki/ycyz-wiki)
 
 </div>
 
@@ -75,8 +75,8 @@ hide:
 
 整个站点的源码托管在 GitHub,欢迎 ⭐Star、🐛提Issue、🔁提PR:
 
-- 仓库地址:[:octicons-link-external-24: GitHub - ycyz-wiki](https://github.com/smartThise/ycyz-wiki)
-- 问题反馈:[:octicons-link-external-24: Issues](https://github.com/smartThise/ycyz-wiki/issues)
+- 仓库地址:[:octicons-link-external-24: GitHub - ycyz-wiki](https://github.com/YCYZ-Wiki/ycyz-wiki)
+- 问题反馈:[:octicons-link-external-24: Issues](https://github.com/YCYZ-Wiki/ycyz-wiki/issues)
 
 !!! tip "觉得本站对你有帮助?"
     去仓库右上角点个 ⭐Star,是对维护者最大的鼓励!
@@ -89,6 +89,6 @@ hide:
 - 想新增一个栏目(比如「校友故事」「社团指南」)?
 - 发现内容过时或错误?
 
-都欢迎在 [Issues](https://github.com/smartThise/ycyz-wiki/issues) 里告诉我们,或在交流群里 @管理员。
+都欢迎在 [Issues](https://github.com/YCYZ-Wiki/ycyz-wiki/issues) 里告诉我们,或在交流群里 @管理员。
 
 <i>本维基由银川一中校友共同维护 · 内容遵循 CC BY-SA 4.0 协议</i>
